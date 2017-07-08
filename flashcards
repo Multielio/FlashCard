@@ -1,0 +1,55 @@
+Définition de : modéliser;Modéliser c'est rendre visible un phénomène physique en élaborant une représentation de ce phénomène, qui permet de décrire, d'expliquer, voir de prédire les comportements observés.
+Expression de la force du ressort;F = k(l-lo)
+Orientation de la force de rappel du ressort ?; Du point d'attache vers la masse !
+Position d'équilibre ?;[MATH] \sum{Fext}=0
+Relation entre la pulsation w et la période T?;[MATH] \omega=\frac{2\pi}{T}
+Relation entre la longueur d'onde, la vitesse et la période ?;[MATH] \lambda = vT
+Energie potentielle élastique ?;[MATH] Ep=\frac{1}{2}k(l-lo)^{2}
+Quels sont les deux types de grandeurs ?; Les grandeurs scalaires (longeurs) et les grandeurs vectorielles (vitesse)
+Donnez les 7 grandeurs physiques de base !;- longeur L , - masse M , - temps T , - température tetha , - intensité I , - quantité de matière N, -intensité lumineuse J
+Relation entre masse et masse molaire ?;[MATH] n=\frac{m}{M}
+Définition d'un soluté ?; Lors d'une préparation il s'agit du solide qui va être dissoud
+Lors d'une dissolution, relation entre la solution fille et la solution mère ?;[MATH] C_{mere}V_{mere}=C_{fille}V_{fille}
+Définition de réaction quantitative?; Une réaction est dite quantitative lorsqu'elle se poursuit jusqu'à ce que 1 de ces reactifs soit totalement consommé (c'est le reactif limitant)
+Définition de réaction limité?; Il reste des quantités non nulles de tous les réactifs à la fin de la réaction (pas de réactif limitant)
+Conditions d'utilisation de l'avancement volumique ?; - tous les produits et réactifs sont des espèces dissoutes; - volume constant au cours de la réaction
+Donnez les 3 états de la matière !; Solide, Liquide, Gaz
+Définition de phase ?; Une phase est une forme de matière uniforme en tout point par son état et sa composition.
+Définition de solide crystallin?; C'est un atome ou une molécule avec un arrangement géométrique particulier.
+Définition de solide amorphe?; Solide sans organisation géométrique particulier
+Définition de constituant physico-chimique?; C'est une espèce chimique caractérisée par son état phusique et sa formule chimique.
+Définition d'un système physico-chimique?; Ensemble de constituant physico-chimique.
+Définition d'un corps pur ?; C'est un système physico-chimique à un seul constituant.
+Nom d'un système à une seule phase ?; Système homogène.
+Radioactivité alpha ?; C'est l'émission par un noyau d'une particule alpha (noyau d'hélium)
+Radioactivité beta ?; C'est l'émission par un noyau d'un électron.
+Radioactivité gamma?; C'est l'émission d'un rayonnement électromagnétique ! Fréquence > 10^{21} Hz
+Réaction de fission ?; C'est la fragmentation d'un noyau en deux noyaux plus légers sous l'effet d'un neutron incident. (utilisé dans centrales nucléaires)
+Réaction de fussion?; C'est l'assemblage de deux noyaux légers pour former un plus lourds (réaction au coeur des étoiles).
+Règles sur les équations nucléaires?; Conservation de la charge et du nombre de masse.
+Définition d'une transformation chimique?; C'est une transformation qui modifie la structure électronique des molécules. Il y a réorganisation des atomes par rupture de certaines liaisons et formation de nouvelles liaisons.
+Dimension de l'activité d'une espèce chimique?; SANS Dimension !
+Activité d'un solvant, ou d'un liquide/solide seul dans sa phase ?; Activité =1
+Constante d'équilibre ?;[MATH] K=\frac{\prod{activite-produits^{Coef-stock}}}{\prod{activite-reactifs^{Coef-stock}}}
+Si Constante d'équilibre>>1 ?; Il ne reste pratiquement plus de réactif à l'état final, on a une réaction très quantitative.
+Si Constante d'équilibre<<1 ?; Les réactifs ne forment quasiment aucun produit, on a une réaction très peu avancée.
+Définition de réaction totale ? Un des constituant à entièrement disparut empéchant le système d'atteindre l'état d'équilibre.
+Expression de la vitesse de réaction ?;[MATH] v=\frac{\text{d}y}{\text{d}t}= \frac{1}{Vk}\frac{\text{d}[Ak]}{\text{d}t}=- \frac{1}{Vi}\frac{\text{d}[Ai]}{\text{d}t} // y= \frac{\xi}{V}
+Pour la cinétique on introduit la concentration d'un gaz, donnez la formule !;[MATH] [X] =\frac{pression-partielle}{RT}
+Donnez les 4 paramètres d'influence sur la vitesse de la réaction !;  - Température (augmente le nombre de "chocs efficaces"), - Concentration des réactifs, - Un catalyseur, - Nature même de la réaction
+Donnez l'expression générale de la loi vitesse spécifique à chaque réaction !; v = f(T,[Ai])
+Donnez l'expression de la loi vitesse (réaction avec ordre);[MATH] v = k [A]^{\alpha} [B]^{\beta}
+Définition temps de demi-réaction !; C'est le temps nécessaire pour consommer la moitié du réactif limitant 
+Loi d'Arrhenius ?;[MATH] k = A\exp{(\frac{-Eactivation}{RT}})
+Charge d'un électron héhé :); q= -e = -1.6 * 10^{-19} C
+Masse d'un électron ?; m = 9.1 * 10^{-31} kg
+Rayon d'un atome ?; 1 Angstrom soit 10^{-10} m*
+Rayon d'un noyau ?; 10^{-15} m
+Définition d'une entité chimique ?; Ensemble d'éléments liés entre eux
+Définition d'un isotope ?; Deux élements differents par leur nombre de masse, donc par leur nombre de neutrons. (Certains isotopes sont instables d'ou leur faible présence en %)
+Règle de Klechkowski ?; La configuration électronique fondamentale s'obtient en replissant les sous couches par valeur de n+l croissante, si deux sous couches ont le même n+l alors on les remplit par valeur de n croissantes.
+Règle de Haud ?; Lorsque plusieurs électrons occupent des OA d'une même sous couche, l'état le plus stable est obtenu en plaçant le plus d'électrons seul dans chaque OA, les spins des électrons célibataires étant parallèles (de même sens).
+Définition de: électron de valence ?; Ce sont les électrons les plus externes, ceux qui vont participer aux transformations chimiques. Ce sont donc les electrons de la couche la plus externe et ceux de la sous couche en cours de remplissage.
+
+
+
