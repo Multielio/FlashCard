@@ -61,8 +61,23 @@ Donnez 4 propriétés sur les métaux !; - Bon conducteurs électriques et therm
 A quels blocs appartiennent les métaux ?; Blocs s ,d et f
 Qu'appelle-t-on les métalloides ?; Ce sont les élements situés sur la diagonale qui sépare les métaux des non métaux. Ce sont des semi-conducteurs (utilisés dans transistors)
 Définition de l'électronégativité; C'est la tendance d'un élément à attirer vers lui les électrons d'une liaison qu'il forme avec un autre élément.
-
-
+Quels sont les deux stratégies pour qu'un élements se stabilise ?; - Former des ions, - Former des molécules.
+Energie de liaison pour une mole ?; ~ une centaine de kJ/mol
+Définition Modèle de Lewis?; Le modèle de Lewis décrit la structure d'une entité chimique (ions, molécule) par les liaisons formées entre les élements.
+Donnez dans les 3 origines des interactions de Van der Waals; -Interaction dipole/dipole: Keesom, - Interaction dipole/ dipole induit: Debye, - interaction dipole induit/dipole induit: London
+Energie de Pauli ?; 1/r^{12}
+Energie de Van der Waals ?; -1/r^{6}
+Energie de Keesom proportionelle à ?;[MATH] Ekeesom\sim\mu_1^{2} \mu_2^{2}
+Energie de Debye proportionelle à ?;[MATH] Edebye\sim\mu_1^{2} \alpha_2
+Energie de London proportionelle à ?;[MATH] Elondon\sim\alpha_1 \alpha_2
+Classer les 3 interactions de Van Der Waals; -London, - Debye, -Keesom
+Définition de la polarisation d'une molécule.; La polarisation noté alpha se traduit par la capacité du nuage électronique à se déformer sous l'effet d'un champs électrique.(alhpa + grand si atome grand)
+Loi empirique sur la miscibilité?; Polaire miscible avec polaire, apolaire avec apolaire.
+Les 3 étapes de la mise en solution d'un soluté ?;- étape d'ionisation, - étape de dissociation, - étape de solvatation
+Avec quoi peut-il y avoir liason hydrogène?; Avec des atomes très electronégatifs Azote, Oxygène, Fluor
+Ordre de grandeur liaison hydrogène?; 10 kJ/mol
+Ordre de grandeur liaison covalente/ionique?; 100 kJ/mol
+Ordre de grandeur liaison Van der Waals?; 1 kJ/mol
 
 
 
