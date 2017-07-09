@@ -6,7 +6,7 @@ Relation entre la pulsation w et la période T?;[MATH] \omega=\frac{2\pi}{T}
 Relation entre la longueur d'onde, la vitesse et la période ?;[MATH] \lambda = vT
 Energie potentielle élastique ?;[MATH] Ep=\frac{1}{2}k(l-lo)^{2}
 Quels sont les deux types de grandeurs ?; Les grandeurs scalaires (longeurs) et les grandeurs vectorielles (vitesse)
-Donnez les 7 grandeurs physiques de base !;- longeur L , - masse M , - temps T , - température tetha , - intensité I , - quantité de matière N, -intensité lumineuse J
+Donnez les 7 grandeurs physiques de base !;- longueur L , - masse M , - temps T , - température tetha , - intensité I , - quantité de matière N, -intensité lumineuse J
 Relation entre masse et masse molaire ?;[MATH] n=\frac{m}{M}
 Définition d'un soluté ?; Lors d'une préparation il s'agit du solide qui va être dissoud
 Lors d'une dissolution, relation entre la solution fille et la solution mère ?;[MATH] C_{mere}V_{mere}=C_{fille}V_{fille}
@@ -78,6 +78,30 @@ Avec quoi peut-il y avoir liason hydrogène?; Avec des atomes très electronéga
 Ordre de grandeur liaison hydrogène?; 10 kJ/mol
 Ordre de grandeur liaison covalente/ionique?; 100 kJ/mol
 Ordre de grandeur liaison Van der Waals?; 1 kJ/mol
+Définition d'un signal.; Un signal est une grandeur physique qui dépend du temps.
+Donnez 3 types de signaux.; Signaux acoustiques (pression), Signaux electrique (tension), Signaux électromagnétique (lumière)
+Condition pour associer une fréquence à un signal ?; Le signal doit être périodique.
+Domaine de l'audible? 20Hz --> 20 kHz , au dela de 20kHz c'est des ultrason
+Fréquence de la lumière ? Rayon X ?; Lumière 10^{14} Hz , Rayon X 10^{18} Hz
+Définition d'un spectre.; C'est l'ensemble des fréquences qui composent un signal.
+Définition d'une onde ?; C'est une perturbation locale qui se propage dans l'espace sans déplacement de matière en moyenne.
+Hypothèses du modèle de l'onde progressive?; - la perturbation garde la même forme au cours de la propagation, - vitesse de propagation est constante.
+Définition onde progressive ?; une onde progressive est une onde qui se propage sans déformation ni atténuation à vitesse constante.
+Expression du vecteur d'onde ?;[MATH] k=\frac{\omega}{c}
+Définition onde stationnaire ?; C'est l'onde créée par la superposition de deux ondes progressives sinusoïdales de même fréquence et de même amplitude, se propageant dans des directions opposées.
+Expression d'une onde stationnaire?[MATH] s(x,t)=A\cos(\omega t+\phi)\cos(kx+\psi)
+Ecart entre deux noeuds dans une onde stationnaire?;[MATH] \lambda/2
+Formule de la corde de Melde ?;[MATH] L = n\frac{\lambda}{2}
+Particularité de la corde de Melde?; Si l'on ne fait pas vibrer la corde à la bonne fréquence, la signal de la corde est nul.
+La diffraction est d'autant plus grande que ?; Elle est d'autant plus grande que la taille de l'obstable est petite et que la longueur d'onde est grande.
+Angle de diffraction pour une ouverture rectangulaire ?;[MATH] \sin(\theta)\sim\frac{\lambda}{a}
+Approximation de l'optique géométrique ?;[MATH] \lambda \ll d
+Citez les 3 postulats de l'optique géométrique !; - Propagation rectiligne de la lumière, - Indépendance des rayons lumineux, - Principe de retour inverse de le la lumière
+Définir le postulat de propagation rectiligne de la lumière.; Dans un milieu homogène et isotrope, la lumière se propage en ligne droite.
+Définir le postulat d'indépendance des rayons lumineux.; La propagation de la lumière le long d'un rayon lumineux est indépendante des autres rayons.
+Définir le postulat de retour inverse de le la lumière.; Le trajet suivi par la lumière est indépendant du sens de propagation.
+Donnez 2 exemples de spectres; Le laser : une seule longueur d'onde, La lampe spectrale: spectre de plusieurs raies.
+Vitesse de la lumière dans un milieu d'indice n ?;[MATH] v = \frac{c}{n}
 
 
 
