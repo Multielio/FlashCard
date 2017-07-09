@@ -102,3 +102,43 @@ Définir le postulat d'indépendance des rayons lumineux.; La propagation de la 
 Définir le postulat de retour inverse de le la lumière.; Le trajet suivi par la lumière est indépendant du sens de propagation.
 Donnez 2 exemples de spectres; Le laser : une seule longueur d'onde, La lampe spectrale: spectre de plusieurs raies.
 Vitesse de la lumière dans un milieu d'indice n ?;[MATH] v = \frac{c}{n}
+Définir le plan d'incidence. ; C'est le plan qui contient le rayon incident et la normale.
+Définir: rayons incident.; Ce sont les rayons qui arrivent sur le système optique.
+Qu'y a t-il à l'intersection des rayons incident?; L'objet.
+Qu'y a t-il à l'intersection des rayons émergeants?; L'image.
+Que peut-on dire d'un système ou les rayons issus de l'objet convergent en un même point ?; C'est un système rigoureusement stigmatique.
+Définition système centré.; C'est un système optique qui présente une symétrie de révolution autour d'un axe, appelé axe optique.
+Définition objet ponctuel.; Un objet ponctuel est assimilable à un point, d'ou partent tout les rayons lumineux.
+Définition objet étendu.; C'est un ensemble d'objets ponctuels voisins, qui emettent chacun une série de rayons lumineux.
+Définition mirroir plan; C'est une surface réflechissante plane. Il est constitué d'une fine couche métallique qui réflechit totalement la lumière et d'une fine couche de verre qui protège cette couche métallique.
+Définition d'une lentille; C'est un morceau de verre taillé transparent et homogène.
+Définition d'objet à l'infini.; Un objet ponctuel à l'infini est infiniment éloigné du système optique. Les rayons provenant de cet objet sont parallèles entre eux.
+Définition de foyer image.; Un objet à l'infini sur l'axe optique forme une image en un point de l'axe optique F' , appelé foyer principal image.
+Définition image à l'infini.; Une image à l'infini est une image dont les rayons émergeants sont parallèles: ils se coupent à l'infini.
+Définition foyer objet.; Un objet ponctuel situé au foyer principal objet d'une lentille forme une image à l'infini sur l'axe optique.
+Conditions de Gauss ?; - les rayons lumineux frappent la lentille proche de l'axe optique, - les rayons sont peu inclinés par rapport à l'axe optique.
+Les règles de construction d'une image ?; - rayon incident qui passe par le système optique pas dévié, - rayon incident parallèle à axe optique -> rayon émergeant passe par foyer image, - rayon incident passe par foyer objet -> rayon émergeant parallèle axe.
+Définition dipole actif.; Il fournit de l'énergie au circuit électrique.
+Définition de l'électricité.; L'électricité est la circulation de porteurs de charges électrique mobiles dans un ciruit électrique.
+Définition de charge électrique ?; Propriété fondamentale de la matière. Il s'agit d'une grandeur scalaire positive ou négative, noté q. Son unité le Coulomb (C).
+Définition de porteurs de charge électrique.; Ce sont des particules de matière ayant une charge électrique non nulle.
+Définition de l'intensité.; dq=idt
+Intensité dans un circuit électrique de base.; quelques mA
+Intensité dans une lampe à incandescence; quelques A
+Intensité dans un moteur de TGV.; environ 10^{2} A
+Intensité d'un éclair.; environ 10^{4} A
+Intensité dans une branche.; L'intensité du courant est la même en tout point d'une branche 
+Loi des noeuds.; La somme des intensités entrant sur un noeud est égale à la somme des intensité sortants du noeud.
+Définition de la tension.; Différence de potentiel électrique entre deux points du circuit.
+Tension dans un circuit électrique.; quelques mV
+Tension dans une prise électrique.; 230 V
+Tension dans un éclair.; 500 MV
+Loi d'additivité des tensions; Dans une branche, la tension aux bornes de l'ensemble des dipôles est égale à la somme des tensions aux bornes de chaque dipôles.
+Loi des mailles; La somme des tensions dans une maille est nulle.
+
+
+
+
+
+
+
