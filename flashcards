@@ -33,7 +33,7 @@ Activité d'un solvant, ou d'un liquide/solide seul dans sa phase ?; Activité =
 Constante d'équilibre ?;[MATH] K=\frac{\prod{activite-produits^{Coef-stock}}}{\prod{activite-reactifs^{Coef-stock}}}
 Si Constante d'équilibre>>1 ?; Il ne reste pratiquement plus de réactif à l'état final, on a une réaction très quantitative.
 Si Constante d'équilibre<<1 ?; Les réactifs ne forment quasiment aucun produit, on a une réaction très peu avancée.
-Définition de réaction totale ? Un des constituant à entièrement disparut empéchant le système d'atteindre l'état d'équilibre.
+Définition de réaction totale ?; Un des constituant à entièrement disparut empéchant le système d'atteindre l'état d'équilibre.
 Expression de la vitesse de réaction ?;[MATH] v=\frac{\text{d}y}{\text{d}t}= \frac{1}{Vk}\frac{\text{d}[Ak]}{\text{d}t}=- \frac{1}{Vi}\frac{\text{d}[Ai]}{\text{d}t} // y= \frac{\xi}{V}
 Pour la cinétique on introduit la concentration d'un gaz, donnez la formule !;[MATH] [X] =\frac{pression-partielle}{RT}
 Donnez les 4 paramètres d'influence sur la vitesse de la réaction !;  - Température (augmente le nombre de "chocs efficaces"), - Concentration des réactifs, - Un catalyseur, - Nature même de la réaction
@@ -81,7 +81,7 @@ Ordre de grandeur liaison Van der Waals?; 1 kJ/mol
 Définition d'un signal.; Un signal est une grandeur physique qui dépend du temps.
 Donnez 3 types de signaux.; Signaux acoustiques (pression), Signaux electrique (tension), Signaux électromagnétique (lumière)
 Condition pour associer une fréquence à un signal ?; Le signal doit être périodique.
-Domaine de l'audible? 20Hz --> 20 kHz , au dela de 20kHz c'est des ultrason
+Domaine de l'audible?; 20Hz --> 20 kHz , au dela de 20kHz c'est des ultrason
 Fréquence de la lumière ? Rayon X ?; Lumière 10^{14} Hz , Rayon X 10^{18} Hz
 Définition d'un spectre.; C'est l'ensemble des fréquences qui composent un signal.
 Définition d'une onde ?; C'est une perturbation locale qui se propage dans l'espace sans déplacement de matière en moyenne.
@@ -89,7 +89,7 @@ Hypothèses du modèle de l'onde progressive?; - la perturbation garde la même 
 Définition onde progressive ?; une onde progressive est une onde qui se propage sans déformation ni atténuation à vitesse constante.
 Expression du vecteur d'onde ?;[MATH] k=\frac{\omega}{c}
 Définition onde stationnaire ?; C'est l'onde créée par la superposition de deux ondes progressives sinusoïdales de même fréquence et de même amplitude, se propageant dans des directions opposées.
-Expression d'une onde stationnaire?[MATH] s(x,t)=A\cos(\omega t+\phi)\cos(kx+\psi)
+Expression d'une onde stationnaire?;[MATH] s(x,t)=A\cos(\omega t+\phi)\cos(kx+\psi)
 Ecart entre deux noeuds dans une onde stationnaire?;[MATH] \lambda/2
 Formule de la corde de Melde ?;[MATH] L = n\frac{\lambda}{2}
 Particularité de la corde de Melde?; Si l'on ne fait pas vibrer la corde à la bonne fréquence, la signal de la corde est nul.
@@ -102,6 +102,3 @@ Définir le postulat d'indépendance des rayons lumineux.; La propagation de la 
 Définir le postulat de retour inverse de le la lumière.; Le trajet suivi par la lumière est indépendant du sens de propagation.
 Donnez 2 exemples de spectres; Le laser : une seule longueur d'onde, La lampe spectrale: spectre de plusieurs raies.
 Vitesse de la lumière dans un milieu d'indice n ?;[MATH] v = \frac{c}{n}
-
-
-
