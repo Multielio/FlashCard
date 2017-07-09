@@ -5,3 +5,5 @@ Vous retrouvez ici sous forme de FlashCards les points essentiels en physique-ch
 Pour créer votre propre jeu, vous pouvez récupérer le fichier flashcards.txt et le paste sur ce site (fonction import, séparateur ";") : http://www.kitzkikz.com/flashcards/index.php
 
 
+Si vous repérez des erreurs, je vous invite à les corriger directement sur le fichier.
+
