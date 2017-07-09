@@ -135,6 +135,24 @@ Tension dans une prise électrique.; 230 V
 Tension dans un éclair.; 500 MV
 Loi d'additivité des tensions; Dans une branche, la tension aux bornes de l'ensemble des dipôles est égale à la somme des tensions aux bornes de chaque dipôles.
 Loi des mailles; La somme des tensions dans une maille est nulle.
+Relation intensité-tension ?; i= f(u)
+Ordre de grandeur des résistances ?; De 1 Ohm à 1 Méga Ohm
+Intensité dans un condensateur ?;[MATH] i = C\frac{\text{d}u}{\text{d}t}
+Energie électrostatique stockée dans le condensateur ?;[MATH] Econdensateur= \frac{1}{2}Cu^{2}
+Tension dans une bobine ?;[MATH] u= L\frac{\text{d}i}{\text{d}t}
+Energie magnétique stockée dans la bobine ?;(MATH] Emagnetique= \frac{1}{2}Li^{2}
+Ordre de grandeur de l'inductence.; De 10^{-4} H à 1 H
+Résistance d'entrée d'un oscilloscope.; 1 Méga Ohm
+Résistance d'entrée d'un voltmètre.; 20 Méga Ohm
+Définition de circuit en régime permanent.; Un circuit en régime permanent lorsque les paramètres décrivant les intensités et les tensions du circuit ne varient pas au cours du temps.
+Définition de portrait de phase.; Un portrait de phase est la représentation graphique de la dérivée d'une grandeur en fonction de cette grandeur.
+Temps du régime transitoire ?; On considère que la durée du régime transitoire est de 5T
+Sur quel dipole la tension est continue à ses bornes ?; Aux bornes d'un condensateur.
+Sur quel dipôle l'intensité est continue ?; L'intensité qui traverse une bobine est continue.
+Temps caractéristique d'un circuit RC série ?; T = RC
+Temps caractéristique d'un circuit RL série ?; T = L/R
+
+
 
 
 
