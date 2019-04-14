@@ -1,0 +1,50 @@
+﻿Définition de crystal parfait; Un crystal parfait est un arrangement infini d'entités chimique. Cet arrangement est périodique dans les trois directions de l'espace.
+Définition de la population d'une maille.; La population d'une maille est le nombre d'entités chimiques présentes dans une maille.
+Définition de la coordinence.; La coordinence est le nombre de plus proches voisins de chaque entité dans la maille.
+Définition de la compacité.; La compacité est le rapport du volume occupé par les entités chimiques dans la maille, sur le volume de la maille.
+Définition de la masse volumique.; La masse volumique est le rapport de la masse des entités sur le volume de la maille.
+Elements négligés dans le modèle du crystal parfait.; Le crystal est exempt de défauts, on néglige les effets de bord, dans un crystal réel il y a différents crystaux juxtaposés.
+Donnez les 4 grands groupes de crystaux.; Les crystaux métalliques, les crystaux covalents, les crystaux ioniques, les crystaux moléculaires.
+Donnez les 3 hypothèses du modèle des sphères dures.; Les atomes sont assimilés à des sphère identiques, indéformables et interpénétrables.
+En quoi consiste l'empilement compact ?; Il consiste à construire une struture de sphère qui minimise le volume qu'elles occupent.
+Donnez la forme d'une structure hexagonale compacte.; Empilement ABAB
+Donnez la forme d'une structure cubique faces centrées.; Empilement ABCABC
+Dans la structure cubique face centrée donnez la relation entre côté et rayon.;[MATH] \sqrt{2}a = 4r
+Population et coordinence dans une structure cubique face centrée.; Population: 4 et Coordinence 12.
+Nombres de sites tétraédrique et octaédrique dans la structure cubique face centrée.; Nbr de sites tétraédrique: 8, Nbr de sites octaédrique: 3 .
+Définition de l'habitabilité d'un site.; L'habitabilité d'un site est la valeur maximale du rayon d'une sphère dure qu'on peut placer au centre d'un site sans déformer le reste de la structure.
+Habitabilité d'un site tétraédrique d'une structure cubique face centrée.;[MATH] r_t = (\sqrt{\frac{3}{2}}-1)r
+Habitabilité d'un site octaédrique d'une structure cubique face centrée.;[MATH] r_o = (\sqrt{2}-1)r
+Comment peut-on représenter un métal.; On peut représenter un métal comme un ensemble de cations fixes baignant dans un gaz d'électrons libres, délocalisés dans tout le métal.
+Donnez l'ordre de grandeur de l'énergie de cohesion dans un métal.; L'énergie de cohésion dans un métal est de l'ordre de 100 kJ.mol^{-1}
+Décrire un crystal ionique.; C'est un crystal fait d'une alternance de cation et d'anions fixes formant un réseau
+Définition d'un champs.; Un champs est une grandeur physique qui dépend de l'espace et du temps.
+Définition de: ligne de champs.; Une ligne de champs est une courbe tangente à un champs vectoriel en tout point.
+Définition de carte de champs.; Une carte de champs est l'ensemble des lignes de champs.
+Dans quel sens vont les lignes de champs d'un aimant.;  Les lignes de champs vint du Nord vers le Sud
+De quoi sont composés les aimants ?; Les aimants sont composés de métaux féromagnétique.
+Dans une spire de courant comment augmenter le champ magnétique généré.; Pour augmenter le champs magnétique on peut augmenter I ou augmenter le nombre de spires.
+Expression du moment magnétique.;[MATH] \vec{\mu}=I \vec{S}
+Orientation du moment magnétique d'un aimant ?; Du Sud vers le Nord.
+Un fil parcouru par un courant dans un champ magnétique extérieur subit une force laquelle ?; La force de LaPlace.
+Donnez l'expression de la force élementaire de Laplace.;[MATH] \text{d}\vec{F_L}= i\vec{dl}\wedge\vec{B}
+Donnez l'expression du couple magnétique.;[MATH] \vec{gamma} =\vec{\mu}\wedge\vec{B}
+Energie potentielle associée au couple magnétique.;[MATH] E_p =\vec{\mu}\vec{B}
+Formule du flux magnétique.; phi = \vec{B} .\vec{S}
+Quelle est l'unité dédiée au flux du champs magnétique.; Le Weber (Wb) c'est des T.m^{2}
+Donnez l'expression de la force électromotrice induite par un flux magnétique (Loi de Faraday).;[MATH] e = -\frac{\text{d}phi}{\text{d}t} 
+Règle d'orientation de la force électromotrice induite; La force électromotrice induite e est orientée dans le même sens que le contour.
+Enoncez la loi de modération de Lenz.; Les phénomènes d'induction s'opposent par leur effets aux causes qui leur ont donné naissance.
+Donnez les deux façon de provoquer de l'induction.; Avec un circuit fixe et un champs qui varie, et avec un circuit mobile et un champ stationnaire.
+Donnez l'expression du flux propre.;[MATH] phi_p =\vec{B_P}.\vec{S} = LI
+Quel est le flux que l'on doit considérer dans la loi de Faraday.; Le flux total c'est à dire la somme du flux propre et du extérieur.
+Quel est le flux propre d'une bobine ?;[MATH] phi_p =\frac{\mu_0N^{2}}{l}SI
+Définition de l'auto-induction.;C'est l'induction provoqué par le circuit lui même.
+Donnez le théorème de Newmann.;[MATH] M1\rightarrow2 = M2\rightarrow1 = M
+Energie magnétique stockée dans le système de deux bobines.;[MATH] E_m = \frac{1}{2}L_1i_1^{2} +  \frac{1}{2}L_2i_2^{2}+Mi_1i_2
+Définition d'un transformateur.; Un transformateur correspond à l'association de deux bobines en induction mutuelle.
+Définition de puces RFID.; Ce sont des puces passives contenant de l'information, l'énergie nécessaire au fonctionnement de la puce est apporté par l'extérieur. (passe Navigo)
+Pour deux bobines couplées par induction mutuelle, donnez la tension aux bornes de la première bobine.;[MATH] u_1= L_1 \frac{\text{d}i_1}{\text{d}t} + M\frac{\text{d}i_2}{\text{d}t} 
+Donnez deux dispositifs qui convertissent la puissance mécanique en puissance électrique.; Les rails de LaPlace générateur et l'alerternateur.
+Donnez la relation fondamentale de la conversion de puissance électromécanique.;[MATH] Pfem +P_L = 0
+Donnez un domaine ou la conversion mécanique / électrique est mise à profit.; Le freinage par induction.

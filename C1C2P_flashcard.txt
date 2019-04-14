@@ -1,0 +1,162 @@
+Définition de : modéliser;Modéliser c'est rendre visible un phénomène physique en élaborant une représentation de ce phénomène, qui permet de décrire, d'expliquer, voir de prédire les comportements observés.
+Expression de la force du ressort;F = k(l-lo)
+Orientation de la force de rappel du ressort ?; Du point d'attache vers la masse !
+Position d'équilibre ?;[MATH] \sum{Fext}=0
+Relation entre la pulsation w et la période T?;[MATH] \omega=\frac{2\pi}{T}
+Relation entre la longueur d'onde, la vitesse et la période ?;[MATH] \lambda = vT
+Energie potentielle élastique ?;[MATH] Ep=\frac{1}{2}k(l-lo)^{2}
+Quels sont les deux types de grandeurs ?; Les grandeurs scalaires (longeurs) et les grandeurs vectorielles (vitesse)
+Donnez les 7 grandeurs physiques de base !;- longueur L , - masse M , - temps T , - température tetha , - intensité I , - quantité de matière N, -intensité lumineuse J
+Relation entre masse et masse molaire ?;[MATH] n=\frac{m}{M}
+Définition d'un soluté ?; Lors d'une préparation il s'agit du solide qui va être dissoud
+Lors d'une dissolution, relation entre la solution fille et la solution mère ?;[MATH] C_{mere}V_{mere}=C_{fille}V_{fille}
+Définition de réaction quantitative?; Une réaction est dite quantitative lorsqu'elle se poursuit jusqu'à ce que 1 de ces reactifs soit totalement consommé (c'est le reactif limitant)
+Définition de réaction limité?; Il reste des quantités non nulles de tous les réactifs à la fin de la réaction (pas de réactif limitant)
+Conditions d'utilisation de l'avancement volumique ?; - tous les produits et réactifs sont des espèces dissoutes; - volume constant au cours de la réaction
+Donnez les 3 états de la matière !; Solide, Liquide, Gaz
+Définition de phase ?; Une phase est une forme de matière uniforme en tout point par son état et sa composition.
+Définition de solide crystallin?; C'est un atome ou une molécule avec un arrangement géométrique particulier.
+Définition de solide amorphe?; Solide sans organisation géométrique particulier
+Définition de constituant physico-chimique?; C'est une espèce chimique caractérisée par son état phusique et sa formule chimique.
+Définition d'un système physico-chimique?; Ensemble de constituant physico-chimique.
+Définition d'un corps pur ?; C'est un système physico-chimique à un seul constituant.
+Nom d'un système à une seule phase ?; Système homogène.
+Radioactivité alpha ?; C'est l'émission par un noyau d'une particule alpha (noyau d'hélium)
+Radioactivité beta ?; C'est l'émission par un noyau d'un électron.
+Radioactivité gamma?; C'est l'émission d'un rayonnement électromagnétique ! Fréquence > 10^{21} Hz
+Réaction de fission ?; C'est la fragmentation d'un noyau en deux noyaux plus légers sous l'effet d'un neutron incident. (utilisé dans centrales nucléaires)
+Réaction de fussion?; C'est l'assemblage de deux noyaux légers pour former un plus lourds (réaction au coeur des étoiles).
+Règles sur les équations nucléaires?; Conservation de la charge et du nombre de masse.
+Définition d'une transformation chimique?; C'est une transformation qui modifie la structure électronique des molécules. Il y a réorganisation des atomes par rupture de certaines liaisons et formation de nouvelles liaisons.
+Dimension de l'activité d'une espèce chimique?; SANS Dimension !
+Activité d'un solvant, ou d'un liquide/solide seul dans sa phase ?; Activité =1
+Constante d'équilibre ?;[MATH] K=\frac{\prod{activite-produits^{Coef-stock}}}{\prod{activite-reactifs^{Coef-stock}}}
+Si Constante d'équilibre>>1 ?; Il ne reste pratiquement plus de réactif à l'état final, on a une réaction très quantitative.
+Si Constante d'équilibre<<1 ?; Les réactifs ne forment quasiment aucun produit, on a une réaction très peu avancée.
+Définition de réaction totale ?; Un des constituant à entièrement disparut empéchant le système d'atteindre l'état d'équilibre.
+Expression de la vitesse de réaction ?;[MATH] v=\frac{\text{d}y}{\text{d}t}= \frac{1}{Vk}\frac{\text{d}[Ak]}{\text{d}t}=- \frac{1}{Vi}\frac{\text{d}[Ai]}{\text{d}t} // y= \frac{\xi}{V}
+Pour la cinétique on introduit la concentration d'un gaz, donnez la formule !;[MATH] [X] =\frac{pression-partielle}{RT}
+Donnez les 4 paramètres d'influence sur la vitesse de la réaction !;  - Température (augmente le nombre de "chocs efficaces"), - Concentration des réactifs, - Un catalyseur, - Nature même de la réaction
+Donnez l'expression générale de la loi vitesse spécifique à chaque réaction !; v = f(T,[Ai])
+Donnez l'expression de la loi vitesse (réaction avec ordre);[MATH] v = k [A]^{\alpha} [B]^{\beta}
+Définition temps de demi-réaction !; C'est le temps nécessaire pour consommer la moitié du réactif limitant 
+Loi d'Arrhenius ?;[MATH] k = A\exp{(\frac{-Eactivation}{RT}})
+Charge d'un électron héhé :); q= -e = -1.6 * 10^{-19} C
+Masse d'un électron ?; m = 9.1 * 10^{-31} kg
+Rayon d'un atome ?; 1 Angstrom soit 10^{-10} m*
+Rayon d'un noyau ?; 10^{-15} m
+Définition d'une entité chimique ?; Ensemble d'éléments liés entre eux
+Définition d'un isotope ?; Deux élements differents par leur nombre de masse, donc par leur nombre de neutrons. (Certains isotopes sont instables d'ou leur faible présence en %)
+Règle de Klechkowski ?; La configuration électronique fondamentale s'obtient en replissant les sous couches par valeur de n+l croissante, si deux sous couches ont le même n+l alors on les remplit par valeur de n croissantes.
+Règle de Haud ?; Lorsque plusieurs électrons occupent des OA d'une même sous couche, l'état le plus stable est obtenu en plaçant le plus d'électrons seul dans chaque OA, les spins des électrons célibataires étant parallèles (de même sens).
+Définition de: électron de valence ?; Ce sont les électrons les plus externes, ceux qui vont participer aux transformations chimiques. Ce sont donc les electrons de la couche la plus externe et ceux de la sous couche en cours de remplissage.
+Définition de classification périodique ?; C'est une table qui recense l'ensemble des élements chimique (créer en 1869).
+2 Propriétés de la classification périodique?; - éléments classés par Z croissants, - même colonne = propriétés chimiques analogues
+Comment appelle-t-on les élements d'une même colonne ?; Les élements d'une même colonne forment une famille chimique.
+Eléments de la Période 1 ?; Hydrogène H (Z=1), Helium He (Z=2)
+Eléments de la Période 2 ?; De Z=3 à Z=10, Lithium (Le), Berylium (Be), Bore (B), Carbone (C), Azote (N), Oxygène (O), Fluor (F),Néon (Ne)
+Eléments de la Période 3 ?; De Z=11 à Z=18, Sodium (Na), Magnésium (Mg), Aluminum (Al), Silicium (Si), Phosphore (P), Souffre (S), Chlore (Cl), Argon (Ar)
+Comment s'appellent les éléments des blocs s et p, et ceux des blocs d et f ?; Blocs s et p: élements principaux, Blocs d et f: éléments de transitions.
+Donnez 4 propriétés sur les métaux !; - Bon conducteurs électriques et thermiques, - Réflechissent la lumière, - Grande densité > 7, - Ductibilité
+A quels blocs appartiennent les métaux ?; Blocs s ,d et f
+Qu'appelle-t-on les métalloides ?; Ce sont les élements situés sur la diagonale qui sépare les métaux des non métaux. Ce sont des semi-conducteurs (utilisés dans transistors)
+Définition de l'électronégativité; C'est la tendance d'un élément à attirer vers lui les électrons d'une liaison qu'il forme avec un autre élément.
+Quels sont les deux stratégies pour qu'un élements se stabilise ?; - Former des ions, - Former des molécules.
+Energie de liaison pour une mole ?; ~ une centaine de kJ/mol
+Définition Modèle de Lewis?; Le modèle de Lewis décrit la structure d'une entité chimique (ions, molécule) par les liaisons formées entre les élements.
+Donnez dans les 3 origines des interactions de Van der Waals; -Interaction dipole/dipole: Keesom, - Interaction dipole/ dipole induit: Debye, - interaction dipole induit/dipole induit: London
+Energie de Pauli ?; 1/r^{12}
+Energie de Van der Waals ?; -1/r^{6}
+Energie de Keesom proportionelle à ?;[MATH] Ekeesom\sim\mu_1^{2} \mu_2^{2}
+Energie de Debye proportionelle à ?;[MATH] Edebye\sim\mu_1^{2} \alpha_2
+Energie de London proportionelle à ?;[MATH] Elondon\sim\alpha_1 \alpha_2
+Classer les 3 interactions de Van Der Waals; -London, - Debye, -Keesom
+Définition de la polarisation d'une molécule.; La polarisation noté alpha se traduit par la capacité du nuage électronique à se déformer sous l'effet d'un champs électrique.(alhpa + grand si atome grand)
+Loi empirique sur la miscibilité?; Polaire miscible avec polaire, apolaire avec apolaire.
+Les 3 étapes de la mise en solution d'un soluté ?;- étape d'ionisation, - étape de dissociation, - étape de solvatation
+Avec quoi peut-il y avoir liason hydrogène?; Avec des atomes très electronégatifs Azote, Oxygène, Fluor
+Ordre de grandeur liaison hydrogène?; 10 kJ/mol
+Ordre de grandeur liaison covalente/ionique?; 100 kJ/mol
+Ordre de grandeur liaison Van der Waals?; 1 kJ/mol
+Définition d'un signal.; Un signal est une grandeur physique qui dépend du temps.
+Donnez 3 types de signaux.; Signaux acoustiques (pression), Signaux electrique (tension), Signaux électromagnétique (lumière)
+Condition pour associer une fréquence à un signal ?; Le signal doit être périodique.
+Domaine de l'audible?; 20Hz --> 20 kHz , au dela de 20kHz c'est des ultrason
+Fréquence de la lumière ? Rayon X ?; Lumière 10^{14} Hz , Rayon X 10^{18} Hz
+Définition d'un spectre.; C'est l'ensemble des fréquences qui composent un signal.
+Définition d'une onde ?; C'est une perturbation locale qui se propage dans l'espace sans déplacement de matière en moyenne.
+Hypothèses du modèle de l'onde progressive?; - la perturbation garde la même forme au cours de la propagation, - vitesse de propagation est constante.
+Définition onde progressive ?; une onde progressive est une onde qui se propage sans déformation ni atténuation à vitesse constante.
+Expression du vecteur d'onde ?;[MATH] k=\frac{\omega}{c}
+Définition onde stationnaire ?; C'est l'onde créée par la superposition de deux ondes progressives sinusoïdales de même fréquence et de même amplitude, se propageant dans des directions opposées.
+Expression d'une onde stationnaire?;[MATH] s(x,t)=A\cos(\omega t+\phi)\cos(kx+\psi)
+Ecart entre deux noeuds dans une onde stationnaire?;[MATH] \lambda/2
+Formule de la corde de Melde ?;[MATH] L = n\frac{\lambda}{2}
+Particularité de la corde de Melde?; Si l'on ne fait pas vibrer la corde à la bonne fréquence, la signal de la corde est nul.
+La diffraction est d'autant plus grande que ?; Elle est d'autant plus grande que la taille de l'obstable est petite et que la longueur d'onde est grande.
+Angle de diffraction pour une ouverture rectangulaire ?;[MATH] \sin(\theta)\sim\frac{\lambda}{a}
+Approximation de l'optique géométrique ?;[MATH] \lambda \ll d
+Citez les 3 postulats de l'optique géométrique !; - Propagation rectiligne de la lumière, - Indépendance des rayons lumineux, - Principe de retour inverse de le la lumière
+Définir le postulat de propagation rectiligne de la lumière.; Dans un milieu homogène et isotrope, la lumière se propage en ligne droite.
+Définir le postulat d'indépendance des rayons lumineux.; La propagation de la lumière le long d'un rayon lumineux est indépendante des autres rayons.
+Définir le postulat de retour inverse de le la lumière.; Le trajet suivi par la lumière est indépendant du sens de propagation.
+Donnez 2 exemples de spectres; Le laser : une seule longueur d'onde, La lampe spectrale: spectre de plusieurs raies.
+Vitesse de la lumière dans un milieu d'indice n ?;[MATH] v = \frac{c}{n}
+Définir le plan d'incidence. ; C'est le plan qui contient le rayon incident et la normale.
+Définir: rayons incident.; Ce sont les rayons qui arrivent sur le système optique.
+Qu'y a t-il à l'intersection des rayons incident?; L'objet.
+Qu'y a t-il à l'intersection des rayons émergeants?; L'image.
+Que peut-on dire d'un système ou les rayons issus de l'objet convergent en un même point ?; C'est un système rigoureusement stigmatique.
+Définition système centré.; C'est un système optique qui présente une symétrie de révolution autour d'un axe, appelé axe optique.
+Définition objet ponctuel.; Un objet ponctuel est assimilable à un point, d'ou partent tout les rayons lumineux.
+Définition objet étendu.; C'est un ensemble d'objets ponctuels voisins, qui emettent chacun une série de rayons lumineux.
+Définition mirroir plan; C'est une surface réflechissante plane. Il est constitué d'une fine couche métallique qui réflechit totalement la lumière et d'une fine couche de verre qui protège cette couche métallique.
+Définition d'une lentille; C'est un morceau de verre taillé transparent et homogène.
+Définition d'objet à l'infini.; Un objet ponctuel à l'infini est infiniment éloigné du système optique. Les rayons provenant de cet objet sont parallèles entre eux.
+Définition de foyer image.; Un objet à l'infini sur l'axe optique forme une image en un point de l'axe optique F' , appelé foyer principal image.
+Définition image à l'infini.; Une image à l'infini est une image dont les rayons émergeants sont parallèles: ils se coupent à l'infini.
+Définition foyer objet.; Un objet ponctuel situé au foyer principal objet d'une lentille forme une image à l'infini sur l'axe optique.
+Conditions de Gauss ?; - les rayons lumineux frappent la lentille proche de l'axe optique, - les rayons sont peu inclinés par rapport à l'axe optique.
+Les règles de construction d'une image ?; - rayon incident qui passe par le système optique pas dévié, - rayon incident parallèle à axe optique -> rayon émergeant passe par foyer image, - rayon incident passe par foyer objet -> rayon émergeant parallèle axe.
+Définition dipole actif.; Il fournit de l'énergie au circuit électrique.
+Définition de l'électricité.; L'électricité est la circulation de porteurs de charges électrique mobiles dans un ciruit électrique.
+Définition de charge électrique ?; Propriété fondamentale de la matière. Il s'agit d'une grandeur scalaire positive ou négative, noté q. Son unité le Coulomb (C).
+Définition de porteurs de charge électrique.; Ce sont des particules de matière ayant une charge électrique non nulle.
+Définition de l'intensité.; dq=idt
+Intensité dans un circuit électrique de base.; quelques mA
+Intensité dans une lampe à incandescence; quelques A
+Intensité dans un moteur de TGV.; environ 10^{2} A
+Intensité d'un éclair.; environ 10^{4} A
+Intensité dans une branche.; L'intensité du courant est la même en tout point d'une branche 
+Loi des noeuds.; La somme des intensités entrant sur un noeud est égale à la somme des intensité sortants du noeud.
+Définition de la tension.; Différence de potentiel électrique entre deux points du circuit.
+Tension dans un circuit électrique.; quelques mV
+Tension dans une prise électrique.; 230 V
+Tension dans un éclair.; 500 MV
+Loi d'additivité des tensions; Dans une branche, la tension aux bornes de l'ensemble des dipôles est égale à la somme des tensions aux bornes de chaque dipôles.
+Loi des mailles; La somme des tensions dans une maille est nulle.
+Relation intensité-tension ?; i= f(u)
+Ordre de grandeur des résistances ?; De 1 Ohm à 1 Méga Ohm
+Intensité dans un condensateur ?;[MATH] i = C\frac{\text{d}u}{\text{d}t}
+Energie électrostatique stockée dans le condensateur ?;[MATH] Econdensateur= \frac{1}{2}Cu^{2}
+Tension dans une bobine ?;[MATH] u= L\frac{\text{d}i}{\text{d}t}
+Energie magnétique stockée dans la bobine ?;(MATH] Emagnetique= \frac{1}{2}Li^{2}
+Ordre de grandeur de l'inductence.; De 10^{-4} H à 1 H
+Résistance d'entrée d'un oscilloscope.; 1 Méga Ohm
+Résistance d'entrée d'un voltmètre.; 20 Méga Ohm
+Définition de circuit en régime permanent.; Un circuit en régime permanent lorsque les paramètres décrivant les intensités et les tensions du circuit ne varient pas au cours du temps.
+Définition de portrait de phase.; Un portrait de phase est la représentation graphique de la dérivée d'une grandeur en fonction de cette grandeur.
+Temps du régime transitoire ?; On considère que la durée du régime transitoire est de 5T
+Sur quel dipole la tension est continue à ses bornes ?; Aux bornes d'un condensateur.
+Sur quel dipôle l'intensité est continue ?; L'intensité qui traverse une bobine est continue.
+Temps caractéristique d'un circuit RC série ?; T = RC
+Temps caractéristique d'un circuit RL série ?; T = L/R
+
+
+
+
+
+
+
+
+

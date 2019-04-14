@@ -1,0 +1,2 @@
+Constante de gravitation universelle ?; G = 6.67 10^{-11} N.kg^{-2}.m^{2}
+Permitivité du vide ?;8.85 10^{-12} F.m^{-1}

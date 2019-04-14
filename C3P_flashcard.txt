@@ -1,0 +1,124 @@
+Définition de la différentielle de f.; Soit f une fonction continue et dérivable df= f'(x)dx est la différentielle de f.
+Forme canonique équation différentielle du second ordre linéaire à coefs constants.;[MATH] \ddot{X}+ \frac{\omega_0}{Q}\dot{X} + \omega_0^{2}X=0
+Dimension du facteur de qualité ?; Sans dimension
+Charge sur une armature d'un condensateur ?;[MATH]  q= Cuc
+Dans le cadre de l'analogie électrique-mécanique à quoi correspond la charge sur l'armature d'un condensateur?; Cela correspond à X.
+Dans une équation différentielle ou se trouve en général le terme de dissipation ?; LE terme de dissipation correspond au terme de dérivée première.
+Dans la résolution du polynome caractéristique si delta >0 à quel régime sommes nous?; Régime apériodique.
+Dans la résolution du polynome caractéristique si delta =0 à quel régime sommes nous?; Régime apériodique critique.
+Dans la résolution du polynome caractéristique si delta < à quel régime sommes nous?; Régime pseudo périodique.
+Forme de la solution régime pseudo périodique?;[MATH] X(t)=\exp(-\frac{\omega_0}{2Q})(A\cos(\frac{\omega_0t}{2Q}\sqrt{4Q^{2}-1})+ B\sin(\frac{\omega_0t}{2Q}\sqrt{4Q^{2}-1}))
+Facteur de qualité élevé signifie ? (2 éléments attendus); Il y a peu de dissipation d'énergie et le système s'amortit lentement
+A quoi correspond le portrait de phase pour un régime pseudo période?; Spirale 
+Dans un régime pseudo périodique quel la "pseudo pulsation" ?;[MATH] \frac{\omega_0}{2Q}\sqrt{4Q^{2}-1}
+Comment déterminer l'ordre de grandeur du facteur de qualité graphiquement ?; En ordre de grandeur le facteur de qualité correspond au nombres d'oscillations visibles sur la représentation graphique.
+Forme de la solution en régime apériodique?;[MATH] X(t)=\exp(-\frac{\omega_0}{2Q})(Ach(\frac{\omega_0t}{2Q}\sqrt{4Q^{2}-1})+ Bsh(\frac{\omega_0t}{2Q}\sqrt{4Q^{2}-1}))
+Forme de la solution en régime apériodique critique?;[MATH] X(t)=(A+Bt)\exp(-\omega_0t)
+Définition régime sinusoidal forcé ?; Le régime sinusoidal forcé est le régime permanant d'un système physique soumis à une extension sinusoidale.
+Définition de l'inpédance complexe ?;[MATH] \underline{u} = Z \underline{i}
+Soit Z= R + jX une impédance complexe, donnez le nom des variables R et X.; R est la résistance et X la réactance.
+Définition de la bande passante.; C'est l'intervalle de pulsations pour lequelles l'amplitude de la réponse est supérieure à l'amplitude à la résonance divisée par racine de 2.
+La résonance en vitesse/intensité à lieu pour quelle pulsation ?; Pour w = w_resonnace
+Formule reliant bande-passante et facteur de qualité ?;[MATH] \frac{\triangle \omega}{\omega_0}=\frac{1}{Q}
+Pour quels facteurs de qualité y a t-il résonance en élongation/ charge ?; Pour les facteurs de qualité supérieur à 1/racine de 2
+Quel est la pulsation de résonance en élongation/charge ?;[MATH] w_r=w_0\sqrt{1-\frac{1}{2Q^{2}}}
+2 exemples de phénomènes de résonance ?; Corde vibrante et Spectroscopie IR (liaison inter molécules vibrent sous l'action d'une onde électro magnétique)
+Plus le facteur de qualité est grand plus la bande passante est ?; Plus la bande passante est étroite.
+Relation entre valeur éfficase et amplitude max ?;[MATH] S_eff= \frac{Smax}{\sqrt{2}}
+Que traduisent les basses fréquences d'un signal ?; Les basses fréquences restituent la forme générale du signal.
+Que traduisent les hautes fréquences d'un signal ?; Les hautes fréquences restituent les détails du signal.
+Formule de la fonction du transfert.;[MATH] H(jw) = \frac{\underline{u_s}}{\underline{u_e}}
+Définition du Gain (formule) ;[MATH] G = |H(jw)|
+Règle pour le bon fonctionement d'un quadripole ?;[MATH] |Z_e| \rightarrow\infty // |Z_s| \rightarrow0
+Définition du déphasage par rapport à la fonction de transfert ?;[MATH]  \phi = arg|H(jw)|
+Définition de la pulsation de coupure ?; C'est la pulsation qui marque la limite entre la bande passante et la bande coupée. G(wc) = Hmax/ racine de 2
+Formule du Gain en dB ?;[MATH] GdB = 20log G
+Filtre passe-bas du 1er ordre, schéma ?; Resistance puis condensateur, tension au borne du condensateur.
+Fonction de transfert pour le filtre passe-bas du premier ordre ?;[MATH] \underline{H}(jw) = \frac{1}{1+j\frac{\omega}{\omega_0}}
+Dans le Diagramme de Bode de courbe de gain que sont les X et les Y ?; En X il y a log w et en Y GdB.
+Filtre passe-haut du 1er ordre, schéma ?; Condensateur puis résistance, tension au borne de la resistance.
+Fonction de transfert pour le filtre passe-haut du permier ordre ?;[MATH] \underline{H}(jw) = \frac{j\frac{\omega}{\omega_0}}{1+j\frac{\omega}{\omega_0}}
+Filtre passe-bas du second ordre schéma ?; Resistance puis bobine puis condensateur, tension aux bornes du condensateur.
+Fonction de transfert pour le filtre passe-bas du second ordre ?;[MATH] \underline{H}(jw) = \frac{1}{1+j\frac{\omega}{Q\omega_0}-\frac{\omega^{2}}{\omega_o^{2}}}
+Définition d'un solide indéformable ?; Un solide est un système matériel dont les points restent à égale distance les uns des autres au cours du temps.
+Définition d'un point matériel ?;Un point matériel est un solide dont on néglige l'extension spatiale et la rotation sur lui même.
+Définition de repère d'espace ?; Un repère d'espace est un solide à partir duquel on repère la position d'un point matériel M.
+Définition de repère de temps ?; Un repère de temps est une chronologie permettant de situer dans le temps un évènement par rapport à un autre.
+Vitesse d'un point quelconque en rotation autour d'un axe ?; v= HMw ou HM est la distance du point à l'axe de rotation.
+Vecteur déplacement élémentaire en coordonnées polaires ?;[MATH] d\overrightarrow{OM} = dr \overrightarrow{ur}+ rd\theta \overrightarrow{u\theta}
+Vecteur accéleration en coordonnées polaires ?;[MATH] \overrightarrow{a} =(\ddot{r} -r\dot{\theta}^{2})\overrightarrow{u_r} + (2\dot{r}\dot{\theta}+r\ddot{\theta})\overrightarrow{u_\theta}
+Vecteur déplacement élémentaire en coordonnées sphérique ?;[MATH] d\overrightarrow{OM} = dr \overrightarrow{ur}+ rd\theta \overrightarrow{u\theta}+rsin\theta d\dot{\phi}\overrightarrow{u\theta}
+Formule des barycentres ?;[MATH] \sum m_i \overrightarrow{GMi} =0 
+Vecteur quantité de mouvement d'un système de points matériel ?;[MATH] \overrightarrow{p} =\sum_i m_i \overrightarrow{v_i} = mtotale\overrightarrow{v_G}  
+Définition d'une force ? ; Une force est la modélisation de l'action qu'exerce un système sur un autre. Elle est responsable de la variation de quantité de mouvement du système.
+Donnez la première lois de Newton.; Dans un référentiel galiléen, tout point matériel isolé est animé d'un mouvement rectiligne uniforme.
+Donnez l'expression de la force gravitationnelle.;[MATH] \overrightarrow{Fa/b} = \frac{-Gm_1m_2}{AB^{2}}\overrightarrow{uab}
+Donnez l'expression de la force électrostatique.;[MATH] \overrightarrow{Fa/b} = \frac{q_Aq_B}{4\pi \epsilon_0AB^{2}}\overrightarrow{uab}
+Donnez l'expression de la force électrique.;[MATH] \overrightarrow{F} = q\overrightarrow{E}
+Formule de la poussée d'archimède ?;[MATH] \overrightarrow{\pi} = -\rho fluide *Vim*\overrightarrow{g}
+Point d'application de la poussée d'archimède ?; Le centre de carème, c'est à dire le centre d'inertie du volume immégé
+Condition pour qu'un objet flotte ?;[MATH] \rho solide \leq \rho fluide
+Théorème de la puissance cinétique ?;[MATH] \frac{\text{d}E_c}{\text{d}t}=\sum_i P(\overrightarrow{F_i})
+Expression du travail élementaire d'une force?;[MATH] \delta W(\overrightarrow{F_i})=P(\overrightarrow{F_i}) dt
+Théorème de l'énergie cinétique ?;[MATH] d E_c = \sum_i \delta W(\overrightarrow{F_i});
+Puissance d'une force ?;[TEX] P(\overrightarrow{F_i})= \overrightarrow{F_i} \overrightarrow{v}
+Définition d'une force conservative ?; Une force est conservative si son travail entre deux points ne dépend pas du chemin suivie.
+Si une force est conservative alors il existe une énergie...?; Alors il existe une énergie potentielle associée.
+Lien entre énergie potentielle et travail élementaire ?;[MATH] \delta W(\overrightarrow{f}) = dEp
+Energie potentielle de pesanteur ?;[MATH] Ep= mgz + C
+Energie potentielle gravitationnelle ?;[MATH] Ep(r) = - \frac{Gm_am_b}{r} 
+Energie potentielle électrostatique dans champs électrique uniforme ?;[MATH] Ep(y) = - qEy + C
+Energie potentielle électrostatique d'une charge ponctuelle ?;[MATH] Ep(r) = - \frac{q_1q_2}{4\pi\epsilon_0r} 
+Energie potentielle élastique ?;[MATH] Ep(l) = \frac{1}{2} k(l-l_0)^{2}
+Théorème de la puissance mécanique  ?;[MATH] \frac{\text{d}E_m}{\text{d}t}=\sum_i P(\overrightarrow{F_i(nc)})
+Théorème de l'énergie mécanique ?;[MATH] d E_m = \sum_i \delta W(\overrightarrow{F_i(nc)});
+Expression de la force de Lorentz ?;[MATH] \overrightarrow{F}=q(\overrightarrow{E}+ \overrightarrow{v}\wedge\overrightarrow{B})
+La force magnétique fait-elle varier la direction ou la norme du vecteur vitesse ?; Uniquement la direction.
+Ordre de grandeur d'un champ électrique dans un fil électrique de TP ?; 10^{2} V.m^{-1
+Ordre de grandeur d'un champ électrique intense ?; 10^{6} V.m^{-1} (permet ionisation de l'air)
+Ordre de grandeur du champs magnétique d'un aimant ?; 10^{-1} T
+Ordre de grandeur du champs magnétique intense ?; 10 T
+Energie potentielle de la force électrique ?; Ep= qV
+Relation potentiel électrique et champ ?;[MATH] \overrightarrow{E}*d\overrightarrow{OM}=-d V
+Mouvement d'une particule chargée dans un champs électrique stationnaire + formule norme du champs.;[MATH] \text{C'est un mouvement uniforme et parabolique }// ||\overrightarrow{E}|| =  \frac{U}{d}
+Mouvement d'une particule chargée dans un champs magnétique stationnaire + formule du rayon.;[MATH] \text{C'est un mouvement circulaire uniforme }// R = | \frac{mv_0}{qB} |
+Définition d'un acide ?; Un acide est une espèce susceptible de libérer un proton H+. AH = H+ + A-
+Définition d'une base ?;Une base est une espèce susceptible de capter un proton H+. B + H+ = BH+
+Définition d'une réaction acide-base ?; C'est un échange de proton H+ entre l'acide d'un couple et la base d'un autre couple.
+Définition d'espèce amphotère ?; C'est une espèce qui est à la fois acide et base.
+Relation pKe et pH ?; pKe = pH + pHO
+Constante d'acidité (Formule) ?;[MATH] Ka = \frac{[A^{-}][H_3O^{+}]}{[AH]}  
+Donnez 3 acides forts et leurs formules ?; Acide nitrique HNO3 , Acide Chlorhydrique HCl, Acide sulfurique H2SO4
+Donnez 2 acides faibles et leurs formules .; Acide acétique CH3COOH, Acide phosphorique H3PO4
+Constante de basicité (Formule).;[MATH] Kb = \frac{[BH^{+}][HO^{-}]}{[B^{-}]}
+Formule entre les différente constantes d'équilibe (Kb,Ka,Ke) ?; Kb = Ke/Ka
+Formule entre pKa pKe et Pkb ?; pKe= pKa + pKb
+Donnez une base forte + sa formule.; La soude NaHO(s)
+Donnez une base faible et sa formule.; L'ammoniac NH3
+Sur l'echelle de pKa l'Acide est à gauche ou à droite et ordre de puissance (fort vers le bas?) ?; Acide à gauche et acide forts en bas.
+Relation de Handerson ?;[MATH] pH = pKa + \log\frac{[A^{-}]}{[AH]}
+Donnez une espèce amphotère (autre que l'eau).; L'Hydrogénocarbonate HCO3-
+Définition d'équilibre de solubilité ?; C'est l'équilibre chimique entre un solide ionique et ses ions en solution.
+Définition de solubilité ?; C'est la quantité de matière que l'on peut dissoudre dans un litre de solution à la température T.
+Donnez les 3 facteurs influençant la solubilité ?; La Température , l'effet d'ions commun et le pH
+Plus le pKs est grand , plus ... ? ; Plus le pKs est grand plus le solide est insoluble.
+Définition d'un réducteur ?; C'est une espèce qui est suceptible de libérer des e-
+Définition d'un oxydant ?; C'est une espèce qui est suceptible de capter des e-
+Définition d'une réaction d'oxydoréduction ?; Une réaction d'oxydoréduction est un échange de e- entre un réducteur et un oxydant d'un autre couple.
+Définition médiamutation ?; C'est la réaction inverse de la dismutation Ex: Cu + Cu3+ = 2Cu+
+Définition du nombre d'oxydation ?; Le nombre d'oxydation d'un élement chimique dans une molécule/ion est la charge qu'il porterait si on attribuait les électrons de chaque liaison à l'atome le plus électronégatif. On note le n.o en chiffres romains.
+Quel est le n.o maximal d'un element chimique ?; C'est l'integralité de ses e- de valence.
+Quel est le n.o minimal d'un element chimique ?; C'est le nombre de e- nécessaire pour saturer sa couche de valence.
+Définition d'une réaction rédox ?; Une réaction rédox est une réaction dans laquelle un élement au moins voit son n.o varier.
+Que qualifie le potentiel standard d'un couple redox ? Il qualifie la force de l'oxydant et du réducteur.
+Donnez la forme usuelle de la relation de Nerst ?;[MATH] E= E^{°}(Ox/Red) + \frac{0.06}{n}\log \frac{aox^{\gamma}ah+^{\delta}}{ared^{\alpha}ah2o+^{\beta}}
+Si la règle du gamma est valide alors ?; La réaction est quantitative.
+Définition d'une électrode de première espèce ?;Un électrode de première espèce est un métal en contact avec un de ses cations
+Définition d'une électrode de seconde espèce ?;Un électrode de seconde espèce est un métal en contact avec un précipité contenant un de ses cations et une solution contenant l'anion du précipité
+Définition d'une électrode de troisième espèce ?;Un électrode de troisième espèce est une électrode inerte en contact avec une solution contenant des ions en solution formant un couple redox.
+Définition d'une pile ?; C'est la réunion de deux demi-piles.
+Phrase magique pour retrouver à quoi correspond la cathode ?; Chat Rouge Content = Cathode/ Reduction/ Borne +
+Définition de la capacité de la pile ?; C'est la quantité de charge électrique débitée au cours du fonctionement de la pile.
+Comment savoir si deux espèces vont réagir sur un diagramme potentiel-pH ?; Il y a pas de réaction entre deux espèces dont le domaine de stabilité se recouvre.
+A partir de quel écart de potentiel peut-on considérer que la réaction est quantitative entre deux espèces ?; Lorsue l'ecart entre les deux domaines est supérieur à 0.2V
+ 

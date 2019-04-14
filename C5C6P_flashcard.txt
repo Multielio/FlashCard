@@ -1,0 +1,148 @@
+﻿Définition de l'effet photoélectrique ?; L'effet photoélectrique est l'emission de e- par un métal sous l'effet de la lumière.
+Donnez l'expression de l'énergie d'un photon.;[MATH] E = h\nu \text{   //   h constante de Plank, }\nu\text{ est la frequence de l'onde (Hz) }
+Relation entre quantité de mouvement et énergie d'un photon ?;[MATH] p=\frac{E}{c}=\frac{h}{\lambda}
+Formule du facteur de Lorentz.;[MATH] \gamma= \frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}
+A partir de quand il faut decrire une particule comme une onde ?;[MATH] \text{Lorsque: }\lambda\sim L
+Enegie mécanique d'une particule quantique confinée ?;[MATH] Em = Ec+Ep= Ec +0= Ec = \frac{p^{2}}{2m}
+Expression du moment cinétique d'un point matériel M par rapport à O.;[MATH] \vec{L_o}= \vec{OM}\wedge\vec{p}
+Expression de la quantité de mouvement?; p = mv
+Unité du moment cinétique ?; kg.m^{2}.s^{-1} OU J.s^{-1}
+Expression du moment d'une force par rapport à O ?;[MATH] \vec{M_o(\vec{F})}= \vec{OM}\wedge\vec{F}
+Formule du bras de levier ?;[MATH] |M_\triangle(\vec{F})|= ||\vec{F}||d  \text{ // d bras de levier}
+Théorème du moment cinétique ?;[MATH] \frac{\text{d}\vec{L_o}}{\text{d}t} = \sum_i\vec{M_o(\vec{F_i})}
+Moment cinétique pour un solide par rapport à un axe.;[MATH] L_\triangle = J_\triangle\dot{\theta}
+Définition d'un couple .;On appelle un couple de forces un ensemble de forces dont la somme est nulle, mais dont la somme des moments n
+Définition d'une liaison pivot ?; Une liaison pivot est une liaison entre un bâti fixe et une pièce mobile, donnant à celle-ci un seul degrès de liberté de rotation.
+Théorème moment cinétique pour un solide en rotation autour d'un axe (avec couples);[MATH] \frac{\text{d}L_\triangle}{\text{d}t} = \sum_iM_\triangle(\vec{F_i})+\sum_jGamma_j\triangle
+Expression de l'energie cinétique de rotation d'un solide.;[MATH] Ec = \frac{1}{2}J_\triangle\dot{\theta}^{2}
+Puissance d'une force et puissance d'un couple.;[MATH] P(\vec{F_i})=M_\triangle(\vec{F_i})\dot{\theta} \text{ //  }P(Gamma_i)=Gamma_i\dot{\theta}
+Définition de: point matériel soumis à une force centrale.; Un point matériel M est soumis à une force centrale si cette force F est à tout moment colinéaire à OM.
+Définition d'un mouvement à force centrale.; C'est un mouvement d'un point matériel soumis uniquement à une force centrale.
+Donnez 3 forces centrales.; Force de rappel du ressort, force gravitationelle, force électrostatique.
+Dans un mouvement à force centrale le moment cinétique est ...donc le mouvement est ...?;Dans un mouvement à force centrale le moment cinétique est CONSTANT donc le mouvement est plan.
+Expression de la constante des aires?;[MATH] C= r^{2}\dot{\theta}
+Définition et expression de la vitesse aréolaire.; La vitesse aréolaire est l'aire balayée par le vecteur OM, par unitée de temps. v= C/2
+Pour la force gravitationelle si Em <0; Em =0 et Em>0 quels sont les trajectoire ?; Si Em<0 trajectoire elliptique, si Em=0 trajectoire parabolique, si Em >0 trajectoire hyperbolique.
+Définition d'une force Newtonienne ?;[MATH] \text{Une force Newtonienne est une force centrale conservative d'expression: } -\frac{K}{r^{2}} \vec{u_r}
+Energie potentielle associée à la force Newtonienne?;[MATH] Ep=-\frac{K}{r}
+Energie potentielle effective pour une force Newtonienne ?;[MATH] Epeff(r) = \frac{1}{2}\frac{mC^{2}}{r^{2}}-\frac{K}{r}
+Définition ellipse.; Lieu des points M tq F1M + MF2 = constante avec F1 et F2 foyer de l'ellipse.
+Formule de l'excentricité de l'ellipse.;[MATH] e=\frac{F_1F_2}{2a} \text{ // Plus e tend vers 0, plus c'est un cercle}
+Energie mécanique pour une trajectoire circulaire ?;[MATH] E_m= -\frac{K}{2r_o}
+Energie mécanique pour une trajectoire elliptique ?;[MATH] E_m= -\frac{K}{2a}
+Donnez la première loi de Kepler.; Les planètes du système solaire décrivent des trajectoires elliptiques dont le Soleil occupe un des foyers.
+Donnez la deuxième loi de Kepler.; Les aires balayées par le segment Soleil-Planète pendant des intervalles de temps égaux sont égales.
+Donnez la troisième loi de Kepler.;[MATH] \frac{T^{2}}{a^{3}}= constante \text{ // Meme constante pour toutes les planetes}
+Vitesse d'un satellite qui a un mouvement circulaire uniforme.;[MATH] v =\sqrt{\frac{GMplanete}{r}}
+Constante de la lois 3ème lois de Kepler.;[MATH] \frac{4\pi^{2}}{GMplanete}
+Donnez la vitesse pour être en orbite basse (1ère vitesse cosmique).; 8km.s^{-1}
+Donnez la vitesse de libération(2ème vitesse cosmique).; 11km.s^{-1}
+Par quoi est définit un système thermodynamique ?; Un système thermodynamique est définit par une surface de contrôle qui détermine les frontière du système.
+Définition de système ouvert.; Un système ouvert peut echanger de la matière et de l'énergie avec l'extérieur.
+Définition de système fermé.; Un système fermé ne peut pas échanger de matière avec l'extérieur, mais uniquement de l'énergie.
+Définition de système isolé.; Un système isolé ne peut echanger de matière ni d'énergie avec l'extérieur.
+Définition de variable d'état.; Les variable d'état sont des grandeurs macroscopiques qui permettent de décrire l'état d'un système thermodynamique à un instant précis.
+Donnez la formule de l'énergie thermique moyenne d'une molécule et sa valeur.; <Eth> molécule = kb*T ~ 10^{-2} eV
+Donnez la formule de l'énergie thermique moyenne d'une mole et sa valeur.; <Eth> macro = RT ~ 1kJ.mol^{-1}
+Donnez une relation avec la pression à l'équilibre mécanique.; P= Pext
+Donnez une formule avec l'énergie interne et la capacité thermique à volume constant.; dU = CdT
+Donnez les Hypothèses du modèle des gazs parfaits.; Les molécules sont ponctuelles, et les molécules n'ont aucunes interaction entre elles.
+Donnez la vitesse typique des molécules de diazote.; 500m.s^{-1}
+Donnez la première loi de Joule.; L'energie interne molaire Um d'un gaz parfait ne dépend que la température T.
+Pour un gaz parfait monoatomique donnez l'expression de Um.;[MATH] U_m= \frac{U}{n}=\frac{3}{2}RT
+Pour un gaz parfait diatomique donnez l'expression de Um.;[MATH] U_m= \frac{U}{n}=\frac{5}{2}RT
+Donnez l'équation des gaz parfait + unitées.; pV = nRT , P en Pascal, V en m^2
+Convertir 1L en m^3.; 1L= 10^{-3} m^{3}
+Convertir 1bar en Pascal.; 1bar= 10^{5} Pa
+Dans l'air ambiant donnez le volume massique et la masse molaire de l'air.; Mair = 29g.mol^{-1} , v= 1L.g^{-1}
+Donnez l'expression associée au diagramme d'Amagat.; PV= f(P)
+Donnez l'expression associée au diagramme d'Clapeyron.; P= f(V)
+Dans le diagramme d'Amagat décrire à quoi ressemblent les isothermes pour le gaz parfait.; Ce sont des droites horizontales
+Dans le diagramme de Clapeyron décrire à quoi ressemblent les isothermes pour le gaz parfait.; Ce sont des hyperboles.
+Donnez les conditions de validité du modèle des gaz parfaits.; Le modèle des gaz parfaits est de plus en plus valide que la pression tend vers 0.
+Hypothèses du modèle de la phase incompresible et indilatable ?; Le volume est constant quelle que soit la pression et la température.
+Donnez la capacité thermique massique de l'eau.; 4kJ.K^{-1}.kg^{-1}
+Définition de point triple.; Il y a 3 phases en coexistances
+Quel phénomène singulier apparait au point critique ?; L'opalescence critique. Le fluide devient opaque.
+La transition de phase s'effectue à ...; La transition de phase s'effectue à température constante pour un corps pur à pression fixé.
+Lors de la compression isotherme d'un gaz que se passe t-il lors du changement d'état ?; La pression reste constante lors du changement d'état.
+Formule du théorème des moments.;[MATH] w_v= \frac{v_M-v_L}{v_V-v_L}
+Formule de la force de pression sur une surface Sext.;[MATH] \vec{F_p}=p\vec{Sext}
+Définition d'une transformation d'un système thermodynamique.; Une transformation d'un système thermodynamique est le passage de ce système d'un état d'équilibre à un nouvel état d'équilibre sous l'effet d'une action extérieure.
+Définition d'une transformation quasistatique.; Une transformation quasistatique est une transformation dans laquelle le système passe par une succession d'états d'equilibre infiniment proches les uns des autres. Les variables d'état sont définit à tout instant.
+Quels sont les deux formes d'échange d'énergie avec l'extérieur dans un système thermodynamique.; Les échanges sous forme de travail et les échange sous forme de transfert thermique.
+Expression du travail élémentaire des forces de pression .;[MATH] \delta W =-Pext \text{d}V
+Travail des forces de pression pour une transformation isochore.; W =0
+Travail des forces de pression pour une transformation monobare.; W =-PextdV
+Travail des forces de pression pour une transformation quasistatique.; W =-PdV
+Dans une transformation cyclique si le sens de parcours est le sens horaire alors le cycle est ... donc W > ou < ou = 0 ?; Le cycle est moteur donc W<0
+Dans une transformation cyclique si le sens de parcours est le sens anti-horaire alors le cycle est ... donc W > ou < ou = 0 ?; Le cycle est récepteur donc W>0
+Dans une transformation cyclique de quoi dépend le travail.; Le travail dépend du chemin suivi par la transformation.
+Donnez les 4 sources de transfert thermique.; La mise en contact de deux solides à des températures différentes, l'effet Joule d'une résistance, une réaction chimique exothermique, le rayonnement.
+Donnez le nom du dispositif permettant de limiter les transferts thermiques.; Le vase Dewar (double paroies argentées séparées par du vide)
+Enoncé du premier principe de la thermodynamique.;[MATH] \text{L'energie interne U associee a un systeme ferme \\ est une fonction d'etat extensive \\ tq au cours d'une transformation : \\ } \triangle E = \triangle E_c +\triangle U = W+Q
+Au cours d'une transformation monobare avec équilibre à l'état initial et l'état final qu'à t-on comme équation ?;[MATH] \triangle H = Q + Wautres \text{ // Wautres souvent null}
+A quelle grandeur est homogène l'enthalphie ?; L'enthalpie est homogène à une énergie donc elle s'exprime en Joule.
+Donnez l'expression de l'enthalphie.; H= U+ PV .
+Donnez 2 caractéristique de l'enthalphie.; C'est une fonction d'état et c'est une grandeur extensive.
+Expression de la capacité thermique.;[MATH] C = \frac{\delta Q}{d T}
+Pour une transformation à volume constant, la capacité thermique à volume constant respecte la relation ...;[MATH] d U = C_V dT
+Pour une transformation à pression extérieure constante, la capacité thermique à pression constante respecte la relation ...;[MATH] d H = C_p dT
+Donnez la deuxième loi de Joule.; L'enthalpie molaire d'un gaz parfait ne dépend que de la température.
+Relation de Mayer ?.;[MATH] Cp_m -Cv_m  = R
+Expression du coef de la LaPlace avec les capacités thermiques.;[MATH] \gamma=\frac{C_P}{C_V}
+Donnez l'expression des capacités thermiques d'un gaz parfait.;[MATH] C_V= \frac{nR}{\gamma-1} // C_P= \frac{\gamma nR}{\gamma-1}
+Valeur du coefficient de LaPlace pour un gaz monoatomique.; 5/3
+Valeur du coefficient de LaPlace pour un gaz diatomique.; 7/5
+Que peut-on dire des variation d'energie interne et d'enthalphie dans une phase condensée idéale ?;Les variation d'energie interne et d'enthalphie dans une phase condensée idéale sont égale. 
+Que peut-on dire des capacités thermiques dans une phase condensée idéale ?;[MATH] C_V= C_P 
+Hypothèses des lois de LaPlace.; La transformation doit être adiabatique quasistatique (gaz parfait)
+Donnez les 3 résultats des Lois de LaPlace.;[MATH] PV^\gamma = cste // TV^{\gamma-1} =cste // P^{1-\gamma}T^{\gamma} = cste
+Définition d'enthalpie massique de changement d'état.; On appelle enthalpie massique de changement d'état la variation d'enthalpie au cours de la transformation isobare d'un kg d'un corps pur de l'état 1 à 2 à la température T. Elle s'exprime en J.k^{-1}
+Donnez les 4 causes d'irréversibilité.; Irréversibilité mécanique, irréversibilité thermique, Irréversibilité liée à la dissipation d'énergie (frottement/effet joule), Irréversibilité du à des états "hors équilibres".
+Définition de transformation renversable.; On peut retourner à l'état initial par une intervention extérieure.
+Qu'implique qu'une réaction soit réversible ?;  Cela implique que la transformation est quasistatique.
+Donnez une condition pour qu'une transformation soit réversible.; L'inversion du sens des contraintes imposées au système conduit à une inversion du sens de la transformation.
+Enoncé du second principe de la thermodynamique (principe d'évolution).;[MATH] \text{A tout systeme ferme, on peut associer une fonction \\ d'etat extensive, appelee entropie S, tq: \\ } \triangle S = S_e + S_c
+Formule de l'entropie échangée.;[MATH] S_e = \sum_i^N \frac{Q_i}{T_i}
+Définition de l'entropie créée.; L'entropie créee est toujours positive.
+Que peut-on dire de l'entropie crée pour une transformation irréversible ?; Sc>0
+Que peut-on dire de l'entropie crée pour une transformation réversible ?; Sc=0
+Que peut-on dire d'une transformation abiabatique et réversible ?; C'est une transformation isentropique (delta S = 0).
+Définition d'entropie massique de changement d'état.; On appelle entropie massique de changement d'état la variation d'entropie au cours de la transformation isobare d'un kg d'un corps pur de l'état 1 à 2 à la température d'équilibre entre les phases T. Elle s'exprime en J.K^{-1}.kg^{-1}
+Relation entre enthalphie massique de changement d'état et entropie massique de changement d'état.;[MATH] \triangle 1\rightarrow2s(T) = \frac{\triangle 1\rightarrow2h(T)}{T}
+Définition de machine thermique.; Une machine thermique est un système thermodynamique qui subit une transformation cyclique au cours de laquelle il échange du travail et du transfert thermique avec l'extérieur.
+Définition de fluide caloporteur.; Un fluide caloporteur est le fluide qui subit la transformation dans une machine thermique.
+Donnez la relation imposé par les machines thermiques pour le premier principe.;[MATH] W +\sum_i Q_i = 0
+Donnez la relation imposé par les machines thermiques pour le second principe (inégalité de Clausius).;[MATH] \sum_i \frac{Q_i}{T_i}\leq0
+Qu'appelle t-on une machine monotherme ?; C'est une machine thermique effectuant un cycle en contact avec un seul thermostat.
+Donnez deux énergies de forte "qualité".; L'énergie électrique et l'énergie mécanique
+Donnez une énergie de faible qualité.; L'énergie thermique est de faible qualité.
+Définition d'une machine thermique ditherme.; Une machine thermique ditherme est une machine thermique qui échange du transfert thermique avec deux thermostats, appelés sources chaude et source froide.
+Que fait un moteur ditherme.; Un moteur ditherme fournit du travail à l'extérieur en prélevant du transfert thermique à la source chaude et en rejetant à la source froide.
+Définition du rendement d'une machine ditherme.; Le rendement "éta" d'une machine ditherme est le rapport entre "la grandeur utile" et "la grandeur qui coute".
+Rendement d'un moteur ditherme ?;[MATH] \eta = \frac{-W}{Q_c}
+Théorème de Carnot pour un moteur thermique ditherme ?;[MATH] \text{Tout moteur ditherme a un rendement inferieur \\ ou egal au rendement de Carnot, l'egalite est atteinte \\ pour un fonctionnement reversible du moteur. \\ } \eta_C = 1 - \frac{T_f}{T_c}
+Rendement de carnot pour une centrale nucléaire et rendement réel ?; Rendement de carnot pour une centrale nucléaire 0.5 et rendement réel 0.33.
+Rendement de carnot pour une centrale thermique à flame et rendement réel ?; Rendement de carnot 0.67 et rendement réel 0.35
+Définition d'un récepteur ditherme.; Un recepteur ditherme reçoit du travail qui lui permet de prélever du transfert thermique à la source froide pour la céder à la source chaude.
+Donnez deux finalités possibles pour les récepteurs dithermes.; Machine Frigorifique et pompe à chaleur.
+Définition (Formule) de l'efficacité e.;[MATH] e = \frac{ce-qui-est-utile }{ce-qui-coute}
+Théorème de Carnot pour une machine frigorifique.;[MATH] \text{Tout machine frigorifique a une efficacite inferieure \\ ou egale a l'efficacite de Carnot. \\ L'egalite etant atteinte pour un fonctionnement reversible. \\ } e = \frac{T_f }{T_c-T_f}
+Théorème de Carnot pour une pompe à chaleur.;[MATH] \text{Toute pompe a chaleur a une efficacite inferieure \\ ou egale a l'efficacite de Carnot. \\ L'egalite etant atteinte pour un fonctionnement reversible. \\ } e = \frac{T_c }{T_c-T_f}
+Efficacité de Carnot + Réelle du réfrigérateur.; Efficacité de Carnot: 13, Efficacité réelle:8
+Efficacité de Carnot + Réelle d'une pompe à chaleur.; Efficacité de Carnot: 10, Efficacité réelle:4
+Définition du cycle de Carnot.; Le cycle de Carnot est un cycle théorique permettant un fonctionnement réversible d'une machine ditherme. Il est composé de deux transformations isothermes au contact de chaque source, reliées par deux transformations adiabatiques réversibles.
+Définition de machine en système fermé.; Une machine en système fermé est une machine thermique dans laquelle tout le fluide caloporteur est au même état de la transformation cyclique à un instant donné. (ex: moteur à explosion)
+Donnez le nom des 4 temps dans un moteur à explosion.; 1er temps: admission, 2ème temps: compression, 3ème temps: explosion et détente, 4 ème temps: échappement
+Avec quelle modélisation se ramène t-on à partir d'un cycle ouvert à un cycle fermé ?; Avec la modélisation de Beau de Rochas.
+Hypothèses de la modélisation de Beau de Rochas.; Tout le mélange fluide est assimilé à un gaz parfait diatomique, Tout se passe comme si la chaleur dégagée par la combustion était apportée au gaz par une source de chaleur fictive T_c
+Rendement de Carnot et réel pour le moteur à essence.; Rendement de Carnot: 0.9 et rendement réel 0.35
+Défintion de moteur à combustion interne .; Dans un moteur à conbustion interne l'énergie thermique permettant la production de travail est obtenue par la combustion du carburant à l'intérieur même du fluide qui subit la transformation.
+Définition d'écoulement stationnaire.; Dans un écoulement stationnnaire en un point donné du circuit, l'état du fluide qui s'y trouve ne dépend pas de l'instant considéré.
+Enoncez le premier principe industriel.;[MATH] \text{Pour un systeme en ecoulement stationnnaire \\ dont les variation d'energie cinetique sont \\ supposees negligeables, on peut \\ ecrire le premier principe industriel :  } \triangle h = w_u + q
+Expression du débit massique.;[MATH] D_m = \frac{\delta m }{dt}
+Expression équivalente au premier principe industriel mais avec debits massiques.;[MATH] D_m\triangle h= P_u +Pth // P_u = \frac{\delta W_u}{dt} // Pth = \frac{\delta Q}{dt}
+Rendement pour un moteur thermique en écoulement stationnaire (avec travaux utiles);[MATH] \eta = -\frac{w_u}{q_c}
+Efficacité machine frigorifique (avec travaux utiles);[MATH] e = \frac{q_f}{w_u}
+Efficacité pompe à chaleur (avec travaux utiles);[MATH] e = -\frac{q_c}{w_u}
